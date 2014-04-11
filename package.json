@@ -1,0 +1,11 @@
+{
+    "name": "ftp-sync",
+    "title": "FTP-Sync",
+    "description": "FTP autosync-upload for Brackets",
+    "homepage": "https://github.com/nrgie",
+    "version": "1.0.0",
+    "author": "Tibor Sulyok (https://github.com/nrgie)",
+    "engines": {
+        "brackets": ">=0.34.0"
+    }
+}

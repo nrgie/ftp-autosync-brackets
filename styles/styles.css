@@ -1,0 +1,10 @@
+#toolbar-ftpsync {
+    display:inline-block;
+    background-image:url('img/upload.svg');
+    background-size:100%;
+    opacity:0.70;
+}
+
+#toolbar-ftpsync:hover{
+    opacity:1;
+}
