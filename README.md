@@ -1,2 +1,0 @@
-ftp-autosync-brackets
-=====================
